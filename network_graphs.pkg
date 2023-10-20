@@ -1,0 +1,32 @@
+v 2.0.2
+d A package of commands producing graphical tools for network meta-analysis
+d Programs by Anna Chaimani
+d Version 2.0.2
+d Date O7 DEC 2019
+f networkplot.ado
+f netweight.ado
+f ifplot.ado
+f netfunnel.ado
+f intervalplot.ado
+f netleague.ado
+f sucra.ado
+f mdsrank.ado
+f clusterank.ado
+
+f network_graphs.sthlp
+f networkplot.sthlp
+f netweight.sthlp
+f ifplot.sthlp
+f netfunnel.sthlp
+f intervalplot.sthlp
+f netleague.sthlp
+f sucra.sthlp
+f mdsrank.sthlp
+f clusterank.sthlp
+
+f antidiabetics_efficacy_wide.dta
+f antiplatelet.dta
+f antihypertensives.dta
+f antidiabetics_efficacy_long.dta
+f antidiabetics_tolerability.dta
+f antidiabeticsSUCRAS.dta
